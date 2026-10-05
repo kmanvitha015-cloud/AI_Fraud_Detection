@@ -1,0 +1,5 @@
+Date & Time,Transaction Type,Amount,Hour,Distance,Recent Transactions,Fraud Probability,Result
+2026-10-05 14:25:22,Debit,5000.0,14,5.0,2,16.0,Normal
+2026-10-05 14:26:26,Credit,5000.0,14,5.0,2,33.0,Normal
+2026-10-05 14:27:30,Debit,80000.0,2,100.0,10,13.0,Normal
+2026-10-05 14:28:12,Credit,90000.0,3,150.0,12,17.0,Normal
